@@ -1,2 +1,4 @@
 # potential-barnacle
-Hello world
+Hello world!
+
+I am looking to explore programming and see what happens!
